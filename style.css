@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(209, 197, 197);
+    margin: 100px;
+    position: relative;
+}
+
+form{
+    position: relative;
+ 
+}
+
+#dd{
+    position: absolute;
+    margin: 10px;
+    padding: 20px;
+    width: 70%;
+    background-color: rgb(230, 230, 240);
+}
+#fname , #email, #pnumber, #date , #web {
+    width: 40%;
+   align-items: center;
+}
+
+#radio{
+    display: inline;
+}
+input{
+    border: 20px;
+   padding: 10px;
+   margin: 10px;
+}
+
+
+
